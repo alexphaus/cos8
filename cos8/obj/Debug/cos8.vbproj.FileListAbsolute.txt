@@ -1,0 +1,12 @@
+C:\Users\Alex\source\repos\cos8\cos8\bin\Debug\cos8.exe
+C:\Users\Alex\source\repos\cos8\cos8\bin\Debug\cos8.pdb
+C:\Users\Alex\source\repos\cos8\cos8\obj\Debug\cos8.vbprojAssemblyReference.cache
+C:\Users\Alex\source\repos\cos8\cos8\obj\Debug\cos8.vbproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\cos8\cos8\obj\Debug\cos8.exe
+C:\Users\Alex\source\repos\cos8\cos8\obj\Debug\cos8.pdb
+C:\Users\Alex\DATA\Programming\VB.NET\cos8\cos8\bin\Debug\cos8.exe
+C:\Users\Alex\DATA\Programming\VB.NET\cos8\cos8\bin\Debug\cos8.pdb
+C:\Users\Alex\DATA\Programming\VB.NET\cos8\cos8\obj\Debug\cos8.vbprojAssemblyReference.cache
+C:\Users\Alex\DATA\Programming\VB.NET\cos8\cos8\obj\Debug\cos8.vbproj.CoreCompileInputs.cache
+C:\Users\Alex\DATA\Programming\VB.NET\cos8\cos8\obj\Debug\cos8.exe
+C:\Users\Alex\DATA\Programming\VB.NET\cos8\cos8\obj\Debug\cos8.pdb
